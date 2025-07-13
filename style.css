@@ -21,3 +21,30 @@
     max-width: 1200px;
     margin: auto;
 }
+.btn2{
+    width: 270px;
+    height: 56px;
+    background-color: #006A50;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1100px;
+    border-radius: 24px;
+    margin: auto;
+    align-items: center;
+    background-color: #C6E4D6;
+    padding: 80px 60px 80px 60px;
+}
+.four{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 80px;
+}
+
+
