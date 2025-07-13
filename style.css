@@ -1,0 +1,23 @@
+.fira-sans-regular {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.btn{
+    width: 116px;
+    height: 52px;
+    background-color: white;
+    color: #006A50;
+    border: 1px solid #006A50;
+    border-radius: 8px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 0px 50px 0px;
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
