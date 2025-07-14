@@ -18,7 +18,7 @@
     margin: 40px 0px 50px 0px;
 }
 .container{
-    max-width: 1200px;
+    max-width: 1300px;
     margin: auto;
 }
 .btn2{
@@ -33,7 +33,7 @@
 .second{
     display: flex;
     justify-content: space-between;
-    max-width: 1100px;
+    max-width: 1200px;
     border-radius: 24px;
     margin: auto;
     align-items: center;
@@ -43,8 +43,44 @@
 .four{
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 70px;
     margin-bottom: 80px;
+}
+.btn3{
+    width: 122px;
+    height: 41px;
+    border: none;
+    border-radius: 8px;
+    background-color: #5490F5;
+    color: white;
+}
+.blue{
+    background-color: rgba(84, 144, 245, 0.2);
+    padding: 33px 0px 0px 33px;
+    height: 270px;
+    width: 341px;
+    border-radius: 16px;
+}
+.green{
+    background-color: #C6E4D6;
+    padding: 33px 0px 0px 33px;
+    height: 270px;
+    width: 341px;
+    border-radius: 16px;
+}
+.yellow{
+    background-color: #F7EBCF;
+    padding: 33px 0px 0px 33px;
+    height: 270px;
+    width: 341px;
+    border-radius: 16px;
+}
+
+.thr{
+    display: flex;
+    justify-content: center;
+    gap: 85px;
+    margin: 40px 0px 100px 0px;
 }
 
 
