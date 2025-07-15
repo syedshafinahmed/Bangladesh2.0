@@ -118,3 +118,23 @@
   font-family: sans-serif;
   cursor: pointer;
 }
+
+.arektadiv{
+    display: flex;
+    padding: 48px;
+    margin-bottom: 24px;
+}
+.dandiv{
+    /* display: flex;
+    flex-direction: column; */
+    margin: 10px 50px 10px 50px;
+}
+.dandivbtn{
+    background-color: #006A50;
+    color: white;
+    margin-top: 20px;
+}
+.hoit{
+    display: flex;
+    gap: 10px;
+}
